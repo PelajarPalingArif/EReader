@@ -14,7 +14,7 @@ javafx {
 }
 application {
     mainClass = "com.astar.Main"
-    mainModule = "Main"
+    mainModule = "main"
 }
 //dependencies {
 //    testImplementation platform('org.junit:junit-bom:5.10.0')
